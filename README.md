@@ -12,5 +12,9 @@ Open terminal:
   
  # pip install pandas
   
- # pip install pandas-datareader
+ # sudo python3 -m pip install pandas_datareader
   
+
+Then run the portfolio.py
+
+Then run main.py
